@@ -1,0 +1,35 @@
+.a{
+     border:1px solid black;
+     text-align: center;
+     border-radius: 40px;
+     background-color: black;
+}
+.b{
+     font-size: 50px;
+     color:aliceblue;
+}
+.c{
+     align-items: center;
+     justify-content: space-around;
+}
+.a1{
+     color:red;
+     padding:20px;
+     font-size: 20px;
+     background-color: antiquewhite;
+     border-radius: 20px;
+}
+.a2{
+     color:red;
+     padding:20px;
+     font-size: 20px;
+     background-color: antiquewhite;
+}
+.a3{
+     color:red;
+     padding:20px;
+     font-size: 20px;
+     background-color: antiquewhite;
+     border-radius:20px;
+}
+
